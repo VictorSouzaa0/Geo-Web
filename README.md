@@ -46,7 +46,6 @@ Siga os passos abaixo para ter uma cópia do projeto em execução na sua máqui
 
 [**Victor Souza**](https://github.com/VictorSouzaa0)
 * **LinkedIn:** [Seu perfil do LinkedIn](https://www.linkedin.com/in/SEU_PERFIL_LINKEDIN/)
-* **Portfólio:** [Link para o seu futuro portfólio principal] (Se já tiver um em construção)
 
 ## 🤝 Contribuições
 
