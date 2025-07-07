@@ -39,8 +39,8 @@ Siga os passos abaixo para ter uma cópia do projeto em execução na sua máqui
     ```bash
     cd GeoWeb
     ```
-3.  **Abra o arquivo `index.html` no seu navegador:**
-    Você pode simplesmente dar um duplo clique no arquivo `index.html` ou usar uma extensão de servidor local no VS Code (como o Live Server) para abri-lo.
+3. **Baixe a extensão (Live server) no seu vscode**
+    clique no canto inferior direito onde haverá o ícone do live server para carregar a página
 
 ## 🧑‍💻 Desenvolvedor
 
