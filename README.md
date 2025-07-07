@@ -33,7 +33,7 @@ Siga os passos abaixo para ter uma cópia do projeto em execução na sua máqui
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/VictorSouzaa0/Geo-Web.git)
+    git clone https://github.com/VictorSouzaa0/Geo-Web.git
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
